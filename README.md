@@ -1,6 +1,5 @@
 # 🧑🏻‍💻 Azer Chakir
-
-Hi 👋, I'm  Azer CHakir A Computer Science Student at ENSI - Ecole Nationale des Sciences de l'Informatique
+Hi 👋, I'm  Azer Chakir A Computer Science Student at ENSI - Ecole Nationale des Sciences de l'Informatique
 
 
 ## 💫 About Me
