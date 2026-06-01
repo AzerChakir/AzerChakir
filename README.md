@@ -33,7 +33,7 @@ Hi 👋, I'm  Azer Chakir A Computer Science Student at ENSI - Ecole Nationale d
 # 💻 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,php,html,css,react,fastapi,mysql,bashscript,git,github,docker, vscode,linux,windows&perline=7" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,php,html,css,react,fastapi,mysql,bash,git,github,docker,vscode,linux,windows,kali&perline=7" />
 </p>
 
 
