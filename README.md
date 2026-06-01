@@ -1,5 +1,28 @@
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=34&pause=1200&color=00D9FF&center=true&vCenter=true&width=700&height=60&lines=Hi+I'm+Azer+Benchkir+%F0%9F%91%8B"
+       alt="Typing SVG" />
+</p>
+
 # 🧑🏻‍💻 Azer Chakir
 Hi 👋, I'm  Azer Chakir A Computer Science Student at ENSI - Ecole Nationale des Sciences de l'Informatique
+
+<!-- Badge row -->
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/azer-benchkir-b80401306/">
+    <img src="https://img.shields.io/badge/LinkedIn-Azer%20Benchkir-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/AzerChakir">
+    <img src="https://img.shields.io/badge/GitHub-AzerChakir-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="mailto:azar.benchkir@ensi-uma.tn">
+    <img src="https://img.shields.io/badge/Email-azar.benchkir%40ensi--uma.tn-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 
 ## 💫 About Me
@@ -9,30 +32,11 @@ Hi 👋, I'm  Azer Chakir A Computer Science Student at ENSI - Ecole Nationale d
 
 # 💻 Tech Stack & Tools
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,php,html,css,react,fastapi,mysql,bashscript,git,github,docker, vscode,linux,windows&perline=7" />
+</p>
 
 
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
-
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) 
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-
-## 🌐 Contact
-- 📫 GitHub: [@AzerChakir](https://github.com/AzerChakir)
 
 # 📊 GitHub Analytics
 <div align="center">
